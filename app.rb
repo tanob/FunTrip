@@ -60,7 +60,7 @@ get '/authorized/:user_email/' do
   user.secret = access_token.secret
   user.save
 
-  '<h1>Authorized!</h1><p>Now send your flight and hotel emails to <a href="mailto:twtrip@gmail.com">twtrip@gmail.com</a>'
+  erb :authorized, locals: { plans_email: ENV['PLANS_EMAIL'], }
 end
 
 def consumer
