@@ -1,28 +1,8 @@
 require 'cgi'
 require 'bundler'
-Bundler.require
+Bundler.require :default, :web
 
-module OAuth
-  class Consumer
-    CA_FILE = nil
-  end
-end
-
-DataMapper::Logger.new($stdout, ENV['DM_LOG_LEVEL'] || :debug)
-DataMapper.setup(:default, 'sqlite:tw-trip.db')
-
-class User
-  include DataMapper::Resource
-
-  property :email, String, key: true
-  property :access_token, String
-  property :secret, String
-  property :created_at, DateTime
-  property :updated_at, DateTime
-end
-
-DataMapper.finalize
-DataMapper.auto_upgrade!
+require './common'
 
 enable :sessions
 set :session_secret, 'Comedy is simply a funny way of being serious.'
@@ -64,6 +44,8 @@ get '/authorized/:user_email/' do
 end
 
 def consumer
-  @consumer ||= OAuth::Consumer.new(ENV['CONSUMER_KEY'], ENV['CONSUMER_SECRET'], site: 'https://api.tripit.com', authorize_url: 'https://www.tripit.com/oauth/authorize')
+  @consumer ||= OAuth::Consumer.new(ENV['CONSUMER_KEY'], ENV['CONSUMER_SECRET'],
+                                    site: 'https://api.tripit.com',
+                                    authorize_url: 'https://www.tripit.com/oauth/authorize')
 end
 
