@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/tripit/ruby_binding_v1.git
+  revision: 8d8e845802a8dacbb529eb4efd6f1c95cd45d7bf
+  specs:
+    tripit (1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -104,3 +110,4 @@ DEPENDENCIES
   oauth
   shotgun
   sinatra
+  tripit (= 1.0)!
