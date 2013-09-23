@@ -1,0 +1,496 @@
+
+Delivered-To: foo@example.com
+Received: by 10.68.25.225 with SMTP id f1csp124580pbg;
+        Fri, 9 Nov 2012 12:33:31 -0800 (PST)
+Received: by 10.68.143.162 with SMTP id sf2mr36567662pbb.137.1352493211593;
+        Fri, 09 Nov 2012 12:33:31 -0800 (PST)
+Return-Path: <poo@example.com>
+Received: from psmtp.com (exprod5mx284.postini.com [64.18.0.108])
+        by mx.google.com with SMTP id t9si40793495paz.26.2012.11.09.12.33.30
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 09 Nov 2012 12:33:31 -0800 (PST)
+Received-SPF: pass (google.com: domain of poo@example.com designates 74.125.149.73 as permitted sender) client-ip=74.125.149.73;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of poo@example.com designates 74.125.149.73 as permitted sender) smtp.mail=poo@example.com
+Received-SPF: pass (google.com: domain of poo@example.com designates 74.125.149.73 as permitted sender) client-ip=74.125.149.73;
+Received: from na3sys009aog104.obsmtp.com ([74.125.149.73]) (using TLSv1) by exprod5mx284.postini.com ([64.18.4.10]) with SMTP;
+	Fri, 09 Nov 2012 12:33:31 PST
+Received: from mail-ia0-f199.google.com ([209.85.210.199]) (using TLSv1) by na3sys009aob104.postini.com ([74.125.148.12]) with SMTP
+	ID DSNKUJ1omiVDsr2O2QvjVQu6T/3LQuL4znWF@postini.com; Fri, 09 Nov 2012 12:33:30 PST
+Received: by mail-ia0-f199.google.com with SMTP id o25so7204466iad.6
+        for <foo@example.com>; Fri, 09 Nov 2012 12:33:29 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:x-gm-message-state;
+        bh=LK9Utryb1Qw8XE5nyivv93tJS8p6DReN4klLj1SMz9Q=;
+        b=k4E/MQseOPKUuJfQGcenw+m+uLcUTsX2Tuq6xpSNJLacxulR8UFRhluZO1ONTOlBp/
+         nK+L07G5IM5+6DHxnd0jUDxteQ61b3d8IDcGsNuNzXi1wYMJoe+LtZJyuF+iZJTYAMuI
+         sgPuSrzGhQnXtPjpKUL/D2/6RWYeqL6C05IJ3oVYyCJ0vd2uDzi5YPu+eV8fEI72iCBK
+         lm1aKpXbp+D+95/RWmkn0JbVCBdBDUdtNKJqoxAxhdHoZIMN8oD7E3wbaT6ss7zEDwkN
+         SgDHtpUYz2cdq2tzfw06+9KTYYs6eE7Q6oVytsoPtpgIGPTN1AdPCKMtxHobNPxbnapp
+         UOEA==
+Received: by 10.50.159.229 with SMTP id xf5mr2564108igb.0.1352493209698;
+        Fri, 09 Nov 2012 12:33:29 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.50.159.229 with SMTP id xf5mr2564105igb.0.1352493209601; Fri,
+ 09 Nov 2012 12:33:29 -0800 (PST)
+Received: by 10.64.49.200 with HTTP; Fri, 9 Nov 2012 12:33:28 -0800 (PST)
+In-Reply-To: <026b01cdbeab$71c4f270$554ed750$@example.com.br>
+References: <20121109182641.135C5F74@1sd.tpn.boo.com>
+	<026b01cdbeab$71c4f270$554ed750$@example.com.br>
+Date: Fri, 9 Nov 2012 18:33:28 -0200
+Message-ID: <CAD6EjiCq6RLHf0krSTrsAfk1EHqVkGvGvYcDeFsJb9tkZMwp5w@mail.gmail.com>
+Subject: Fwd: Loc DBNJJZ - Emitido - Foo Bar
+From: Poo Bar <poo@example.com>
+To: Foo Bar <foo@example.com>
+Content-Type: multipart/related; boundary=14dae934071f51c4af04ce15dd2c
+X-Gm-Message-State: ALoCoQmQ71jNPE5XzqIsa7ns3bNLJCNkM+c4mNRB201KAzoXViVy4GJ7QOOMNiOPZiuRUHDj6VS5bFlb/e7rR6YXubVfsoCwAgF9V71VFWcoW/hA8soJ04xUvxq7EKMuxoRrPqAmeffKAYsOBJCAUcXJ8bgqwUbSP6a1xhlPUHjQvNy1dHzvM5E=
+X-pstn-dkim: 0 skipped:not-enabled
+X-pstn-nxpr: disp=neutral, envrcpt=foo@example.com
+X-pstn-nxp: bodyHash=c280a01da22646f45e0150ec19221e2ace63bd57, headerHash=ad8ae3753f08226f4bc1b3a2f7806c1564660098, keyName=4, rcptHash=959e52e7d33988ca7faf4d4ccf8a0a1d1e121cef, sourceip=74.125.149.73, version=1
+
+--14dae934071f51c4af04ce15dd2c
+Content-Type: multipart/alternative; boundary=14dae934071f51c4ad04ce15dd2b
+
+--14dae934071f51c4ad04ce15dd2b
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: blah <blah@example.com>
+Date: 2012/11/9
+Subject: Loc DBNJJZ - Emitido - Foo Bar
+To: Poo Bar <poo@example.com>, joo <
+joo@example.com>, Boo Bar <bar@example.com>
+
+
+*LOO01_BOO_DEL_TRVL*****
+
+** **
+
+** **
+
+**
+
+*Bilhete Eletr=F4nico*
+
+****
+
+** **
+
+Nome do Passageiro****
+
+*Foo Bar*****
+
+LOC (Localizador da reserva)****
+
+*DBNJJZ*****
+
+** **
+
+Voo****
+
+Classe****
+
+Origem****
+
+Destino****
+
+Data****
+
+Sa=EDda/Chegada****
+
+Assento****
+
+G3 1446****
+
+Y****
+
+SAO - GUARULHOS****
+
+POA - PORTO ALEGRE****
+
+13/11/2012****
+
+17:30/19:07****
+
+24D****
+
+** **
+
+Data de emiss=E3o****
+
+09/11/2012 - 16:26****
+
+LOC (Localizador da reserva)****
+
+DBNJJZ****
+
+Formas de Pagamento****
+
+=C0 vista****
+
+*Valor Total*****
+
+*R$* *717,32*****
+
+** **
+
+*Orienta=E7=F5es para Embarque* ****
+
+=B7  Apresente-se em nosso check-in com 2 horas de anteced=EAncia em voos
+nacionais, ou com 3 horas em voos internacionais. ****
+
+=B7  N=E3o se esque=E7a de levar seus documentos originais: ****
+
+=B7  *Carteira de Identidade* para voos nacionais ****
+
+=B7  *Passaporte* e os vistos necess=E1rios para entrada no pais de destino
+para voos internacionais. ****
+
+=B7  Verifique a necessidade de Vacinas para o destino de sua viagem. ****
+
+** **
+
+** **
+
+example51 30260522www.example.com.br****
+
+** **
+
+*Contato* ****
+
+=B7  SAC GOL BRASIL: 0800 704 0465 ****
+
+
+
+****
+
+** **
+
+
+
+--=20
+Thanks,
+
+*Poo Bar*
+
+--14dae934071f51c4ad04ce15dd2b
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">blah</b> <span dir=3D"ltr=
+">&lt;<a href=3D"mailto:blah@example.com">blah@example=
+.com.br</a>&gt;</span><br>
+Date: 2012/11/9<br>Subject: Loc DBNJJZ - Emitido - Foo Bar<br>To: Poo=
+Bar &lt;<a href=3D"mailto:poo@example.com">poo@exam=
+ple.com</a>&gt;, FAA &lt;<a href=3D"mailto:faa@example.com">faa=
+a@example.com</a>&gt;, Moo &lt;<a href=3D"mailto:moo=
+in@example.com">mooin@example.com</a>&gt;,=
+ Boo Bar &lt;<a href=3D"mail=
+to:bar@example.com">bar@example.com</a>&gt;<br>
+<br><br><div link=3D"blue" vlink=3D"purple" lang=3D"PT-BR"><div><p class=3D=
+"MsoNormal"><b><span style=3D"font-size:14.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;">LOO01_BOO_DEL_TRVL</span></b><u></u><u></u></=
+p><p class=3D"MsoNormal">
+<u></u>=A0<u></u></p><div align=3D"center"><table style=3D"width:450.0pt;bo=
+rder-collapse:collapse" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600"><tbody><tr><td style=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt"><p=
+ class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">
+<u></u>=A0<u></u></p><table style=3D"width:100.0%;border-collapse:collapse"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr=
+><td style=3D"width:112.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width=3D"150">=
+<p class=3D"MsoNormal">
+<b><span style=3D"font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;san=
+s-serif&quot;;color:#0f1c82"><img src=3D"cid:logo-agencia" height=3D"50" wi=
+dth=3D"100"><u></u><u></u></span></b></p></td><td style=3D"padding:1.5pt 1.=
+5pt 1.5pt 1.5pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><b><spa=
+n style=3D"font-size:18.0pt;font-family:&quot;Verdana&quot;,&quot;sans-seri=
+f&quot;;color:#0f1c82">Bilhete Eletr=F4nico<u></u><u></u></span></b></p></t=
+d><td style=3D"width:112.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width=3D"150"=
+>
+<p class=3D"MsoNormal" style=3D"text-align:right" align=3D"right"><span sty=
+le=3D"font-size:6.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot=
+;;color:#0f1c82"><img src=3D"http://advance.reservafacil.tur.br/etkt/imagen=
+s/cias/hdr/G3.png"><u></u><u></u></span></p>
+</td></tr></tbody></table><p class=3D"MsoNormal" style=3D"margin-bottom:12.=
+0pt"><u></u>=A0<u></u></p><table style=3D"width:442.5pt;border-collapse:col=
+lapse" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"590"><tbod=
+y><tr><td style=3D"width:40.0%;border-top:none;border-left:none;border-bott=
+om:solid #cdcdcd 1.0pt;border-right:solid #cdcdcd 1.0pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt" valign=3D"top" width=3D"40%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">Nome do Passageiro<u></u><=
+u></u></span></p></td><td style=3D"width:60.0%;border:none;border-bottom:so=
+lid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" width=
+=3D"60%">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:8.5pt;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">Foo Bar</span></b=
+><span style=3D"font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;;color:#4d4d4e"><u></u><u></u></span></p>
+</td></tr><tr><td style=3D"width:40.0%;border:none;border-right:solid #cdcd=
+cd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" width=3D"40%">=
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">LOC (Localizador da reserv=
+a)<u></u><u></u></span></p>
+</td><td style=3D"width:60.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=
+=3D"top" width=3D"60%"><p class=3D"MsoNormal"><b><span style=3D"font-size:8=
+.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">=
+DBNJJZ</span></b><span style=3D"font-size:8.5pt;font-family:&quot;Verdana&q=
+uot;,&quot;sans-serif&quot;;color:#4d4d4e"><u></u><u></u></span></p>
+</td></tr></tbody></table><p class=3D"MsoNormal" style=3D"margin-bottom:12.=
+0pt"><u></u>=A0<u></u></p><table style=3D"width:100.0%;border-collapse:coll=
+apse" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbod=
+y><tr style=3D"vertical-align:center">
+<td style=3D"border:solid #cdcdcd 1.0pt;border-left:none;background:#a1a1a1=
+;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"text-=
+align:center" align=3D"center"><span style=3D"font-size:7.5pt;font-family:&=
+quot;Verdana&quot;,&quot;sans-serif&quot;;color:white">Voo<u></u><u></u></s=
+pan></p>
+</td><td style=3D"border:solid #cdcdcd 1.0pt;border-left:none;background:#a=
+1a1a1;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"=
+text-align:center" align=3D"center"><span style=3D"font-size:7.5pt;font-fam=
+ily:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:white">Classe<u></u><u=
+></u></span></p>
+</td><td style=3D"border:solid #cdcdcd 1.0pt;border-left:none;background:#a=
+1a1a1;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"=
+text-align:center" align=3D"center"><span style=3D"font-size:7.5pt;font-fam=
+ily:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:white">Origem<u></u><u=
+></u></span></p>
+</td><td style=3D"border:solid #cdcdcd 1.0pt;border-left:none;background:#a=
+1a1a1;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"=
+text-align:center" align=3D"center"><span style=3D"font-size:7.5pt;font-fam=
+ily:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:white">Destino<u></u><=
+u></u></span></p>
+</td><td style=3D"border:solid #cdcdcd 1.0pt;border-left:none;background:#a=
+1a1a1;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"=
+text-align:center" align=3D"center"><span style=3D"font-size:7.5pt;font-fam=
+ily:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:white">Data<u></u><u><=
+/u></span></p>
+</td><td style=3D"border:solid #cdcdcd 1.0pt;border-left:none;background:#a=
+1a1a1;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"=
+text-align:center" align=3D"center"><span style=3D"font-size:7.5pt;font-fam=
+ily:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:white">Sa=EDda/Chegada=
+<u></u><u></u></span></p>
+</td><td style=3D"border-top:solid #cdcdcd 1.0pt;border-left:none;border-bo=
+ttom:solid #cdcdcd 1.0pt;border-right:none;background:#a1a1a1;padding:3.75p=
+t 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" style=3D"text-align:center" =
+align=3D"center">
+<span style=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-s=
+erif&quot;;color:white">Assento<u></u><u></u></span></p></td></tr><tr style=
+=3D"vertical-align:center"><td style=3D"border-top:none;border-left:none;bo=
+rder-bottom:solid #cdcdcd 1.0pt;border-right:solid #cdcdcd 1.0pt;padding:3.=
+75pt 3.75pt 3.75pt 3.75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">G3 1446<u></u><u></u></span></p></td><td style=3D"border=
+-top:none;border-left:none;border-bottom:solid #cdcdcd 1.0pt;border-right:s=
+olid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">Y<u></u><u></u></span></p></td><td style=3D"border-top:n=
+one;border-left:none;border-bottom:solid #cdcdcd 1.0pt;border-right:solid #=
+cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">SAO=A0-=A0GUARULHOS<u></u><u></u></span></p></td><td sty=
+le=3D"border-top:none;border-left:none;border-bottom:solid #cdcdcd 1.0pt;bo=
+rder-right:solid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">POA=A0-=A0PORTO ALEGRE<u></u><u></u></span></p></td><td =
+style=3D"border-top:none;border-left:none;border-bottom:solid #cdcdcd 1.0pt=
+;border-right:solid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">13/11/2012<u></u><u></u></span></p></td><td style=3D"bor=
+der-top:none;border-left:none;border-bottom:solid #cdcdcd 1.0pt;border-righ=
+t:solid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">17:30/19:07<u></u><u></u></span></p></td><td style=3D"bo=
+rder:none;border-bottom:solid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.=
+75pt">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:#4d4d4e">24D<u></u><u></u></span></p></td></tr></tbody></table><p=
+ class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">
+<u></u>=A0<u></u></p><table style=3D"width:100.0%;border-collapse:collapse"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr=
+><td style=3D"width:40.0%;border-top:none;border-left:none;border-bottom:so=
+lid #cdcdcd 1.0pt;border-right:solid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.=
+75pt 3.75pt" valign=3D"top" width=3D"40%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#0f1c82">Data de emiss=E3o<u></u><u=
+></u></span></p></td><td style=3D"width:60.0%;border:none;border-bottom:sol=
+id #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" width=
+=3D"60%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">09/11/2012 - 16:26<u></u><=
+u></u></span></p></td></tr><tr><td style=3D"width:40.0%;border-top:none;bor=
+der-left:none;border-bottom:solid #cdcdcd 1.0pt;border-right:solid #cdcdcd =
+1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" width=3D"40%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#0f1c82">LOC (Localizador da reserv=
+a)<u></u><u></u></span></p></td><td style=3D"width:60.0%;border:none;border=
+-bottom:solid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"=
+top" width=3D"60%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">DBNJJZ<u></u><u></u></span=
+></p></td></tr><tr><td style=3D"width:40.0%;border-top:none;border-left:non=
+e;border-bottom:solid #cdcdcd 1.0pt;border-right:solid #cdcdcd 1.0pt;paddin=
+g:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" width=3D"40%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#0f1c82">Formas de Pagamento<u></u>=
+<u></u></span></p></td><td style=3D"width:60.0%;border:none;border-bottom:s=
+olid #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" widt=
+h=3D"60%">
+<p class=3D"MsoNormal"><span style=3D"font-size:8.5pt;font-family:&quot;Ver=
+dana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">=C0 vista<u></u><u></u></s=
+pan></p></td></tr><tr><td style=3D"width:40.0%;border:none;border-right:sol=
+id #cdcdcd 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign=3D"top" width=
+=3D"40%">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:8.5pt;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;;color:#0f1c82">Valor Total</span></b><=
+span style=3D"font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-se=
+rif&quot;;color:#0f1c82"><u></u><u></u></span></p>
+</td><td style=3D"width:60.0%;background:#f4f4f4;padding:3.75pt 3.75pt 3.75=
+pt 3.75pt" valign=3D"top" width=3D"60%"><p class=3D"MsoNormal"><b><span sty=
+le=3D"font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot=
+;;color:#4d4d4e">R$</span></b><span style=3D"font-size:8.5pt;font-family:&q=
+uot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">=A0<b>717,32</b><u>=
+</u><u></u></span></p>
+</td></tr></tbody></table><p class=3D"MsoNormal" style=3D"margin-bottom:12.=
+0pt"><u></u>=A0<u></u></p><table style=3D"width:100.0%;border-collapse:coll=
+apse" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbod=
+y><tr><td style=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt">
+<div style=3D"border:none;border-bottom:solid #cdcdcd 1.0pt;padding:0cm 0cm=
+ 4.0pt 0cm"><p class=3D"MsoNormal" style=3D"vertical-align:top"><b><span st=
+yle=3D"font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quo=
+t;;color:#4d4d4e">Orienta=E7=F5es para Embarque</span></b><span style=3D"fo=
+nt-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:=
+#4d4d4e"> <u></u><u></u></span></p>
+<p class=3D"MsoNormal" style=3D"vertical-align:top"><span style=3D"font-siz=
+e:8.5pt;font-family:Symbol;color:#4d4d4e">=B7</span><span style=3D"font-siz=
+e:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4=
+e">=A0 Apresente-se em nosso check-in com 2 horas de anteced=EAncia em voos=
+ nacionais, ou com 3 horas em voos internacionais. <u></u><u></u></span></p=
+>
+<p class=3D"MsoNormal" style=3D"vertical-align:top"><span style=3D"font-siz=
+e:8.5pt;font-family:Symbol;color:#4d4d4e">=B7</span><span style=3D"font-siz=
+e:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4=
+e">=A0 N=E3o se esque=E7a de levar seus documentos originais: <u></u><u></u=
+></span></p>
+<p class=3D"MsoNormal" style=3D"vertical-align:top"><span style=3D"font-siz=
+e:8.5pt;font-family:Symbol;color:#4d4d4e">=B7</span><span style=3D"font-siz=
+e:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4=
+e">=A0 <b>Carteira de Identidade</b> para voos nacionais <u></u><u></u></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"vertical-align:top"><span style=3D"font-siz=
+e:8.5pt;font-family:Symbol;color:#4d4d4e">=B7</span><span style=3D"font-siz=
+e:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4=
+e">=A0 <b>Passaporte</b> e os vistos necess=E1rios para entrada no pais de =
+destino para voos internacionais. <u></u><u></u></span></p>
+<p class=3D"MsoNormal" style=3D"vertical-align:top"><span style=3D"font-siz=
+e:8.5pt;font-family:Symbol;color:#4d4d4e">=B7</span><span style=3D"font-siz=
+e:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4=
+e">=A0 Verifique a necessidade de Vacinas para o destino de sua viagem. <u>=
+</u><u></u></span></p>
+</div></td></tr></tbody></table><p class=3D"MsoNormal" style=3D"margin-bott=
+om:12.0pt"><u></u>=A0<u></u></p><table style=3D"width:100.0%;border-collaps=
+e:collapse" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+><tbody><tr>
+<td style=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt"><div style=3D"border:none=
+;border-bottom:solid #cdcdcd 1.0pt;padding:0cm 0cm 4.0pt 0cm"><pre style=3D=
+"vertical-align:top"><span style=3D"font-size:8.5pt;font-family:&quot;Verda=
+na&quot;,&quot;sans-serif&quot;;color:#4d4d4e"><u></u>=A0<u></u></span></pr=
+e>
+<pre style=3D"vertical-align:top"><span style=3D"font-size:8.5pt;font-famil=
+y:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">example51 <a =
+href=3D"http://30260522www.example.com.br" target=3D"_blank">30260522www.n=
+extblah.com.br</a><u></u><u></u></span></pre>
+</div></td></tr></tbody></table><p class=3D"MsoNormal" style=3D"margin-bott=
+om:12.0pt"><u></u>=A0<u></u></p><table style=3D"width:100.0%;border-collaps=
+e:collapse" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+><tbody><tr>
+<td style=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt"><div style=3D"border:none=
+;border-bottom:solid #cdcdcd 1.0pt;padding:0cm 0cm 4.0pt 0cm"><p class=3D"M=
+soNormal" style=3D"vertical-align:top"><b><span style=3D"font-size:8.5pt;fo=
+nt-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4e">Contato=
+</span></b><span style=3D"font-size:8.5pt;font-family:&quot;Verdana&quot;,&=
+quot;sans-serif&quot;;color:#4d4d4e"> <u></u><u></u></span></p>
+<p class=3D"MsoNormal" style=3D"vertical-align:top"><span style=3D"font-siz=
+e:8.5pt;font-family:Symbol;color:#4d4d4e">=B7</span><span style=3D"font-siz=
+e:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#4d4d4=
+e">=A0 SAC GOL BRASIL: <a href=3D"tel:0800%20704%200465" value=3D"+55800704=
+0465" target=3D"_blank">0800 704 0465</a> <u></u><u></u></span></p>
+</div></td></tr></tbody></table><p class=3D"MsoNormal" style=3D"margin-bott=
+om:12.0pt"><br><br><u></u><u></u></p></td></tr></tbody></table></div><p cla=
+ss=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><u></u>=A0<u>=
+</u></p>
+</div></div></div><br><br clear=3D"all"><br>-- <br>Thanks,<br><font><br cle=
+ar=3D"all"></font><span style=3D"font-family:arial,sans-serif;font-size:13p=
+x;border-collapse:collapse;color:rgb(34,34,34)"><font face=3D"tahoma, sans-=
+serif"><font><i style=3D"font-family:comic sans ms,sans-serif">Poo=
+</i></font><br>
+
+--14dae934071f51c4ad04ce15dd2b--
+--14dae934071f51c4af04ce15dd2c
+Content-Type: image/gif; name="logo.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <logo-agencia>
+X-Attachment-Id: da52342f46c32619_0.1
+
+R0lGODlhZAAyAPcAAAAAAAAAMwAAZgAAmQAAzAAA/wArAAArMwArZgArmQArzAAr/wBVAABVMwBV
+ZgBVmQBVzABV/wCAAACAMwCAZgCAmQCAzACA/wCqAACqMwCqZgCqmQCqzACq/wDVAADVMwDVZgDV
+mQDVzADV/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMrADMrMzMrZjMrmTMr
+zDMr/zNVADNVMzNVZjNVmTNVzDNV/zOAADOAMzOAZjOAmTOAzDOA/zOqADOqMzOqZjOqmTOqzDOq
+/zPVADPVMzPVZjPVmTPVzDPV/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2Yr
+AGYrM2YrZmYrmWYrzGYr/2ZVAGZVM2ZVZmZVmWZVzGZV/2aAAGaAM2aAZmaAmWaAzGaA/2aqAGaq
+M2aqZmaqmWaqzGaq/2bVAGbVM2bVZmbVmWbVzGbV/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kA
+ZpkAmZkAzJkA/5krAJkrM5krZpkrmZkrzJkr/5lVAJlVM5lVZplVmZlVzJlV/5mAAJmAM5mAZpmA
+mZmAzJmA/5mqAJmqM5mqZpmqmZmqzJmq/5nVAJnVM5nVZpnVmZnVzJnV/5n/AJn/M5n/Zpn/mZn/
+zJn//8wAAMwAM8wAZswAmcwAzMwA/8wrAMwrM8wrZswrmcwrzMwr/8xVAMxVM8xVZsxVmcxVzMxV
+/8yAAMyAM8yAZsyAmcyAzMyA/8yqAMyqM8yqZsyqmcyqzMyq/8zVAMzVM8zVZszVmczVzMzV/8z/
+AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8rAP8rM/8rZv8rmf8rzP8r//9VAP9V
+M/9VZv9Vmf9VzP9V//+AAP+AM/+AZv+Amf+AzP+A//+qAP+qM/+qZv+qmf+qzP+q///VAP/VM//V
+Zv/Vmf/VzP/V////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAACH5BAEAAPwALAAAAABkADIA
+AAj/AJXVU0ZwYEGCAhEaTHiw4cF9yiDukzixokWL0PbVg7ZxIEeHC0MqHAkSobKPJw2iXKmyJUKI
+GxNKjNiRo82aAztGbIgSIkGfO3++HCr0oMiSSBkinTkxosaM9SZG3ahxpsecJpUe1UpSIDSTW8N2
+jVnwK0yOFJ1GtbkP6teYOsE2FJs0JEuCd1PidSlz7senUSOiRRsYMEqvV/ESDcoYKNCFSrnWzXrw
+puWmUqG2xdkz8kjIdCULBD22NEOscxFTpLq2MOCdHo16Di3y7VehifXqXrlYJ1uaaNVqDj7Tq9Lb
+D7s+Np0QMnPSW2VLpFoVbVqrb2XnRM7wsMvsDrU//6e88OzOfcv0RZuacb16euj11YtGjz79ZQTp
+cZe9l6T3sQMBdRtZBCIXF0oGnVWPfPq0tQ98UkUzkX3wnQYNflgB1dxI4HFlW1aoTUZaWX2hh14y
+nlzCSSeeRCQfNPDVF2BQ9CiD34A73fYfh8ZJ5pxnPHVVo4013gcfNMd0wsmSliyJDFTR6LNMfMvU
+mB5++mwoXmM9HoWgXnHBVNR2Qi3zkZTK1FcfNMIsyYklSi55CTL7uMeZQb5tdKUyUkqp5p5W0mOm
+oFlWiWWHlIVnEn75mUThlMkw+SQ0z3hiiRyc8FmnfgviVxxDQwqaqEIX6ieqoGfaKBdWWH01SSav
+xv8Kq6yvEpNmevU8c2knmkX1DCcq0odeJ3B+1BGsyNKa7LI6GYqmqH5mpxJCBiqD7LKvYpvJT8sg
+s2QyVUU1kbecJBPlPuQmU6E+miirrLaCmhqNjVnOhKFiG4ZorbvLJqsJRPqo2MmEfU4JjYqXaDQv
+sZ1EU2U02mYbq7s3CZTlQOlZbKaWieaErDK2EhQyyCDDigkxEC35TEcWRRUprxVFWm5Tk5xM2ccd
+/3UebBfKB5axHxIEKzHc3bYxRLVG4+0l7s2rJjT6JCOHJX6mvOJGsZ475UTEwCrV1xTah1jFCpIn
+VyaZaBJvlQnFK/Sr+3gSJxtvcoLppU0uOTUndK//aMkzy8A6jEY71aeMJGlICaMyTodND047a6gv
+ZILPixCjBF2Jdiboyulm3SuGnrebcSZDjCSZLEPhpsq8yrKw9s1XH2CY6URmf0RWWWuabd+apUDI
+xt1kJ8QXb/zxLHai4t+Bww3ffUhvu0+fLKv5oLDnsQyiUr8zHrximG839D4va1YRfPJVNNUzSg68
+D9qTbFqnfKBMEv+UMkqE63ocSaimhBFZ25AyJyq27S53nAILsnL1JnARx0TTyQj53rQypMHNT1M6
+3LbUsyD7PGhT/qMI/ppitMIhZIDfWxSfMgYxuC2jfVWJ0nzkI6EIwrAqm5vP9Lj2hvi1ZiKzW9BT
+/6riItk5rHeZS8i8BoK2YajKbaIiUvAmaAlzVYWGLxIXupoELqq0Lg2DyyBEJDGJKK1nelubnVMM
+lpmK8O5CCeneANtFNCtd7lb66dowMhYnZEhIhxBCY50uwaL4BGYYaJueuLrGuQ7OkDVu+eCVrmdH
+/AzQUAg0Wo1SBReBRGlKulrSMZIBozp1JIQVaZAZLzIf6lzvg1LCjIloOJUGbY13dlzI4rpCpCTe
+imwbQcbdOEGnVy5Ih1MxUVRkxBYaVsVEafxjg2Y4PQmlh5L4cdpJ8oMfMxnEUEOyZJq0+bD8JSNO
+noDg7GSYEY40KCLCssgtN9OgF13RYFNxj8Kawv+7exmkRgPUD17YZqNSMY5T7lxPNJ6BInBRBD5R
+OSMyI8QUe0a0lRNJzxnT5874SFJPvDthN3OHQAL2k1Dl1Ke40icR/n0wI0eiCoQgtDWZ7rCIigTg
+hJ5HzUYtkXEE+V2oLidQVREoe+6cUkQhJMRZTtSWmwlhLPe5tSl5kKloiafsujnAk450XgQF51dq
+pKdYrrGaEPJgEf1nxkdKhYMyfA8a6xkVZzpFhnP1STjXRi2ApgmOXTUUjJwVlIz6xJH6e2eAjqlT
+tKTvj6Y07CcVOZ2oPkVU2qwWqjRBDM6OTIWiWk0miCZEZQzjXx/8SWBGK0GYFgdzIksGyEzXyIz/
+qkeR1nFKo7hapRLSY3Ob66ytQmY98/3ERJrg1kQ456CQiSsw9zEJMbrWNU3Az2tsiYpVOwhRm7Ct
+q6d6WyYQ2TXTUmaJFrGVRPRBjGGgbIfqXa1TBBlekoHsE+0F7huw2hEGnVG3l/vISKM4XFCE7LMD
+QSmMABjIbJ4nGu+FjWX79Kj9iAxkKDvP9bSHGQGecJf5sZypttlLoJI1gNb06ESmiVuFychnJsof
+Sy9yEWFNsmAFE1BCRtqsW6kKnCa9U59yKqPJNg1C8KyQIclWohVSL3bToR7H/GqSroY0iWgiUuxk
+6FKNTLNBM+Wf7KiURcc9KpbM7FS9JpkjAoKV76QY4+t3CfiRv8BnSiyGJ1XwiT2mRA7F/4Ocnwe9
+EyA3SqCbxBefMmfQ00SOhrMzpi0hfeZyXulPfqo0jD2p5J2NZKSYZNUTCWqc/+UPnl+e55GphGlL
+ZxqlKMWgzkSVITxabtFWzkoUG1JAW8dymTV0SozOiKud6eQsroaNsXXmZ8jI2VhxZNRgN8koeVkP
+xTG2rUJfZOqH/dIrqEIVnnA02DP19twcOyG1VMW7hbBNT6E9Dz4bpGJICppEeDoI2zJGJngzupds
+MxoGTzXnkTJGpLY+pl0FSROz+oZQ0c4SfRadsRslWJxGgjh9oBEQADs=
+--14dae934071f51c4af04ce15dd2c--

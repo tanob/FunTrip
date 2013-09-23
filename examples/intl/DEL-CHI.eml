@@ -1,0 +1,591 @@
+
+Delivered-To: foo@example.com
+Received: by 10.216.65.4 with SMTP id e4csp47152wed;
+        Fri, 3 Feb 2012 06:07:35 -0800 (PST)
+Received: by 10.68.239.41 with SMTP id vp9mr18387355pbc.17.1328278054189;
+        Fri, 03 Feb 2012 06:07:34 -0800 (PST)
+Return-Path: <blah@example.com>
+Received: from psmtp.com (exprod5mx270.postini.com. [64.18.0.93])
+        by mx.google.com with SMTP id o4si8242976pbq.223.2012.02.03.06.07.30
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 03 Feb 2012 06:07:33 -0800 (PST)
+Received-SPF: pass (google.com: domain of blah@example.com designates 200.98.199.5 as permitted sender) client-ip=200.98.199.5;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of blah@example.com designates 200.98.199.5 as permitted sender) smtp.mail=blah@example.com
+Received-SPF: pass (google.com: domain of blah@example.com designates 200.98.199.5 as permitted sender) client-ip=200.98.199.5;
+Received: from emls0005.whservidor.com ([200.98.199.5]) by exprod5mx270.postini.com ([64.18.4.10]) with SMTP;
+	Fri, 03 Feb 2012 09:07:32 EST
+Received: from blah (200.175.82.194.dynamic.adsl.gvt.net.br [200.175.82.194])
+	(Authenticated sender: blah@example.com)
+	by emls0005.whservidor.com (Postfix) with ESMTPA id A2DC323400A2;
+	Fri,  3 Feb 2012 12:07:25 -0200 (BRST)
+Message-ID: <39CF55626CE843D9AEE74F617F3CA35D@blah>
+From: "blah" <blah@example.com>
+To: "Zoo Bar" <zaz@example.com>
+Cc: "Boo Bar" <bar@example.com>,
+	"Foo Bar" <foo@example.com>
+Subject: Loc 3T2KKK - Emitido - Foo Bar - DEL/CHI
+Date: Fri, 3 Feb 2012 12:07:31 -0200
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3538.513
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3538.513
+X-pstn-levels: (S:80.79584/99.90000 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:97.0282 C:98.6951 )
+X-pstn-nxpr: disp=neutral, envrcpt=foo@example.com
+X-pstn-nxp: bodyHash=f8a28690abd6501ca4b8e85ce0ee54c2125975e7,
+ headerHash=a8a48088cf2ac431fef73710cc820660c74b0e57, keyName=4,
+ rcptHash=954aaa668410d8308393e08c56b35185e02256e2, sourceip=200.98.199.5, version=1
+Content-Type: multipart/alternative;
+	boundary="----=_blahPart_000_02AD_01CCE26C.67B7DCF0"
+
+Esta é uma mensagem em várias partes no formato MIME.
+
+------=_blahPart_000_02AD_01CCE26C.67B7DCF0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+-------------------------------------------------------------------------=
+-------
+
+
+
+
+
+            example Bilhete Eletr=F4nico =20
+
+
+            Nome do Passageiro Foo Bar=20
+            N=FAmero do bilhete 074 5505014762=20
+
+
+            Voo Classe Origem Destino Data Sa=EDda/Chegada Bagagem=20
+            KL 872 Q DEL - INDIRA GANDHI INTL AMS - SCHIPHOL 25/02/2012 =
+01:50/06:05 1 pe=E7a=20
+            KL 611 Q AMS - SCHIPHOL CHI - O HARE INTL 25/02/2012 =
+12:40/14:25 1 pe=E7a=20
+
+
+            Valor Tarifas INR 33.475,00=20
+            C=E2mbio   0,0349=20
+            Valor Tarifas R$ 1.167,77=20
+            Taxa de embarque R$ 638,59=20
+            Total R$ 1.806,36=20
+
+
+            Data de emiss=E3o 03/02/2012 - 11:48=20
+            LOC (Localizador da reserva) 3T2KKK=20
+            Formas de Pagamento =C0 vista=20
+            Valor Total R$ 1.806,36=20
+
+
+            Orienta=E7=F5es para Embarque=20
+            a.. Apresente-se em nosso check-in com 2 horas de =
+anteced=EAncia em voos nacionais, ou com 3 horas em voos internacionais. =
+
+            a.. N=E3o se esque=E7a de levar seus documentos originais:=20
+            a.. Carteira de Identidade para voos nacionais=20
+            a.. Passaporte e os vistos necess=E1rios para entrada no =
+pais de destino para voos internacionais.=20
+            a.. Verifique a necessidade de Vacinas para o destino de sua =
+viagem.=20
+          =20
+
+
+example
+51 30260522
+www.example.com.br=20
+
+
+            Contato=20
+            a.. SAC KLM BRASIL: 0800 888 7000=20
+          =20
+
+
+
+    =20
+
+------=_blahPart_000_02AD_01CCE26C.67B7DCF0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<STYLE><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 10pt;
+font-family:Tahoma
+}
+--></STYLE>
+</HEAD>
+<BODY dir=3Dltr class=3Dhmmessage>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Verdana'; COLOR: #000000; FONT-SIZE: 10pt">
+<DIV>
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none"><BR>&nbsp;</DIV>
+<DIV dir=3Dltr>
+<DIV>
+<DIV id=3DSkyDrivePlaceholder></DIV>
+<HR id=3DstopSpelling>
+<BR><BR>
+<CENTER>
+<TABLE=20
+style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: =
+5px; WIDTH: 600px; PADDING-RIGHT: 5px; BORDER-COLLAPSE: collapse; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; =
+BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 5px">
+  <TBODY>
+  <TR>
+    <TD><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: =
+#000000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 5px">
+        <TBODY>
+        <TR>
+          <TD=20
+          style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 2px; PADDING-LEFT: =
+2px; PADDING-RIGHT: 2px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: middle; FONT-WEIGHT: =
+bold; PADDING-TOP: 2px">blah=20
+            blah</TD>
+          <TD=20
+          style=3D"TEXT-ALIGN: center; PADDING-BOTTOM: 2px; =
+PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(15,28,130); FONT-SIZE: 24px; =
+VERTICAL-ALIGN: middle; FONT-WEIGHT: bold; PADDING-TOP: 2px">Bilhete=20
+            Eletr=F4nico</TD>
+          <TD=20
+          style=3D"TEXT-ALIGN: right; PADDING-BOTTOM: 2px; PADDING-LEFT: =
+2px; PADDING-RIGHT: 2px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 8px; VERTICAL-ALIGN: middle; PADDING-TOP: =
+2px"><IMG=20
+            border=3D0=20
+            =
+src=3D"http://advance.reservafacil.tur.br/etkt/imagens//cias/hdr/KL.png">=
+</TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 590px; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; WHITE-SPACE: nowrap; BORDER-TOP-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; BORDER-LEFT-WIDTH: 0px; =
+PADDING-TOP: 5px">
+        <TBODY>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; PADDING-RIGHT: 5px; =
+BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: 5px">Nome=20
+            do Passageiro</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px"><B>Foo=20
+            Bar</B></TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; BORDER-RIGHT: rgb(205,205,205) 1px solid; =
+PADDING-TOP: 5px">N=FAmero=20
+            do bilhete</TD>
+          <TD=20
+          style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 60%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px"><B>074=20
+            5505014762</B></TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; WHITE-SPACE: nowrap; BORDER-TOP-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; BORDER-LEFT-WIDTH: 0px; =
+PADDING-TOP: 5px">
+        <TBODY>
+        <TR=20
+        style=3D"TEXT-ALIGN: center; PADDING-BOTTOM: 5px; =
+BACKGROUND-COLOR: rgb(161,161,161); PADDING-LEFT: 5px; PADDING-RIGHT: =
+5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: white; FONT-SIZE: =
+10px; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: =
+rgb(205,205,205) 1px solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; =
+PADDING-TOP: 5px">Voo</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Classe</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Origem</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Destino</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Data</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Sa=EDda/Chegada</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; PADDING-TOP: 5px">Bagagem</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(77,77,78); FONT-SIZE: 10px; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: =
+rgb(205,205,205) 1px solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; =
+PADDING-TOP: 5px">KL=20
+            872</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Q</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: 5px">DEL=20
+            - INDIRA GANDHI INTL</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: 5px">AMS=20
+            - SCHIPHOL</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">25/02/2012</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">01:50/06:05</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; PADDING-TOP: 5px">1=20
+            pe=E7a</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(77,77,78); FONT-SIZE: 10px; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: =
+rgb(205,205,205) 1px solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; =
+PADDING-TOP: 5px">KL=20
+            611</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">Q</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: 5px">AMS=20
+            - SCHIPHOL</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: 5px">CHI=20
+            - O HARE INTL</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">25/02/2012</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; BORDER-RIGHT: rgb(205,205,205) 1px solid; PADDING-TOP: =
+5px">12:40/14:25</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+BORDER-LEFT: rgb(205,205,205) 1px solid; PADDING-BOTTOM: 5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: rgb(205,205,205) 1px =
+solid; PADDING-TOP: 5px">1=20
+            pe=E7a</TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; WHITE-SPACE: nowrap; BORDER-TOP-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; BORDER-LEFT-WIDTH: 0px; =
+PADDING-TOP: 5px">
+        <TBODY>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">Valor=20
+            Tarifas</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">INR=20
+            33.475,00</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">C=E2mbio</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">&nbsp;=20
+            0,0349</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">Valor=20
+            Tarifas</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">R$=20
+            1.167,77</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">Taxa=20
+            de embarque</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">R$=20
+            638,59</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px"><B>Total</B></TD>
+          <TD=20
+          style=3D"PADDING-BOTTOM: 5px; BACKGROUND-COLOR: =
+rgb(244,244,244); PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: =
+rgb(77,77,78); PADDING-TOP: 5px"><B>R$=20
+            1.806,36</B></TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; WHITE-SPACE: nowrap; BORDER-TOP-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; BORDER-LEFT-WIDTH: 0px; =
+PADDING-TOP: 5px">
+        <TBODY>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">Data=20
+            de emiss=E3o</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">03/02/2012=20
+            - 11:48</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">LOC=20
+            (Localizador da reserva)</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">3T2KKK</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 40%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(15,28,130); FONT-SIZE: 11px; VERTICAL-ALIGN: top; BORDER-RIGHT: =
+rgb(205,205,205) 1px solid; PADDING-TOP: 5px">Formas=20
+            de Pagamento</TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px">=C0=20
+            vista</TD></TR>
+        <TR=20
+        style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 100%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(77,77,78); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; PADDING-TOP: 5px">
+          <TD=20
+          style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; WIDTH: 40%; PADDING-RIGHT: 5px; FONT-FAMILY: =
+verdana,arial,sans-serif; COLOR: rgb(15,28,130); FONT-SIZE: 11px; =
+VERTICAL-ALIGN: top; BORDER-RIGHT: rgb(205,205,205) 1px solid; =
+PADDING-TOP: 5px"><B>Valor=20
+            Total</B></TD>
+          <TD=20
+          style=3D"PADDING-BOTTOM: 5px; BACKGROUND-COLOR: =
+rgb(244,244,244); PADDING-LEFT: 5px; WIDTH: 60%; PADDING-RIGHT: 5px; =
+COLOR: rgb(77,77,78); PADDING-TOP: =
+5px"><B>R$</B>&nbsp;<B>1.806,36</B></TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: =
+#000000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 5px">
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV=20
+            style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 100%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(77,77,78); FONT-SIZE: 11px; VERTICAL-ALIGN: top; PADDING-TOP: =
+5px"><B>Orienta=E7=F5es=20
+            para Embarque</B>=20
+            <LI>Apresente-se em nosso check-in com 2 horas de =
+anteced=EAncia em=20
+            voos nacionais, ou com 3 horas em voos internacionais.=20
+            <LI>N=E3o se esque=E7a de levar seus documentos originais:=20
+            <LI><B>Carteira de Identidade</B> para voos nacionais=20
+            <LI><B>Passaporte</B> e os vistos necess=E1rios para entrada =
+no pais=20
+            de destino para voos internacionais.=20
+            <LI>Verifique a necessidade de Vacinas para o destino de sua =
+viagem.=20
+            </LI></DIV></TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: =
+#000000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 5px">
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV=20
+            style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 100%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(77,77,78); FONT-SIZE: 11px; VERTICAL-ALIGN: top; PADDING-TOP: =
+5px"><PRE style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: =
+5px; PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(77,77,78); FONT-SIZE: 11px; VERTICAL-ALIGN: top; PADDING-TOP: =
+5px">example
+51 30260522
+www.example.com.br</PRE></DIV></TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE=20
+      style=3D"PADDING-BOTTOM: 5px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 5px; WIDTH: 100%; PADDING-RIGHT: 5px; BORDER-COLLAPSE: =
+collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: =
+#000000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 5px">
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV=20
+            style=3D"BORDER-BOTTOM: rgb(205,205,205) 1px solid; =
+TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 100%; =
+PADDING-RIGHT: 5px; FONT-FAMILY: verdana,arial,sans-serif; COLOR: =
+rgb(77,77,78); FONT-SIZE: 11px; VERTICAL-ALIGN: top; PADDING-TOP: =
+5px"><B>Contato</B>=20
+
+            <LI>SAC KLM BRASIL: 0800 888 7000=20
+      =
+</LI></DIV></TD></TR></TBODY></TABLE><BR><BR><BR></TD></TR></TBODY></TABL=
+E></CENTER></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_blahPart_000_02AD_01CCE26C.67B7DCF0--
