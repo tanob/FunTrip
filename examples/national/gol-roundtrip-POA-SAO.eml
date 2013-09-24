@@ -1,0 +1,641 @@
+
+Delivered-To: foo@example.com
+Received: by 10.64.58.71 with SMTP id o7csp231376ieq;
+        Thu, 4 Apr 2013 12:50:19 -0700 (PDT)
+X-Received: by 10.66.231.5 with SMTP id tc5mr11157270pac.144.1365105018882;
+        Thu, 04 Apr 2013 12:50:18 -0700 (PDT)
+Return-Path: <blah@example.com>
+Received: from psmtp.com (exprod5mx254.postini.com [64.18.0.49])
+        by mx.google.com with SMTP id se4si11895134pbc.23.2013.04.04.12.50.15
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Thu, 04 Apr 2013 12:50:18 -0700 (PDT)
+Received-SPF: neutral (google.com: 208.84.243.23 is neither permitted nor denied by best guess record for domain of blah@example.com) client-ip=208.84.243.23;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 208.84.243.23 is neither permitted nor denied by best guess record for domain of blah@example.com) smtp.mail=blah@example.com
+Received-SPF: none (google.com: blah@example.com does not designate permitted sender hosts) client-ip=208.84.243.23;
+Received: from if01-mail-sr06-mia.mta.boo.com ([208.84.243.23]) by exprod5mx254.postini.com ([64.18.4.10]) with SMTP;
+	Thu, 04 Apr 2013 14:50:17 CDT
+Received: from 155.tpn.boo.com (unknown [10.235.200.47])
+	by mail-sr06-mia.tpn.boo.com (Postfix) with ESMTP id 0C44C2002322;
+	Thu,  4 Apr 2013 19:50:14 +0000 (UTC)
+X-boo-Karma: -2%
+X-boo-Hash: 8109e703fc8eed51d05812ffc3cfa86b
+Received: from 02ROO (unknown [187.36.18.194])
+	(authenticated user blah@example.com)
+	by 155.tpn.boo.com (Postfix) with ESMTPA id EDD61400002F1;
+	Thu,  4 Apr 2013 19:50:11 +0000 (UTC)
+From: "blah" <blah@example.com>
+To: <foo@example.com>,
+	=?utf-8?Q?Boo_Bar?= <bar@example.com>
+Subject: Loc B7E88Y - Emitido - Foo Bar - POA/CGH/POA
+Date: Thu, 4 Apr 2013 16:50:09 -0300
+Message-ID: <01cb01ce316d$9e5c79e0$db156da0$@example.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_blahPart_000_01CC_01CE3154.79124F20"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac4xbZzCzRMtgfipSSGxz/texAWEow==
+Content-Language: pt-br
+X-Milter-Version: master.39-g1fd3ecd+
+X-CLX-Rate-Response: fh=155; fi=10.235.200.246:2001; rg=B; GT=0; fs=1011;
+	PS=bar@example.com:0,foo@example.com:0;
+	ns=0; id=BFBsyWl8-341950D1E; rv=6463/208.84.242.246:14051; ts=Ik34Q; fl=I;
+	ip=187.36.18.194; he=FTVNXhPhJJy; nr=7; nt=7; ho=zmsHpKEx6b; hd=JzZLfe1il2C;
+	hf=Kms7tx1BZvh; hF=GDQLq7dzGMJ; hj=JTu5hidk5bX; ZB=OarWoL/PvMW;
+	ZB=MCoD4URJyek; ZB=K23QoJbP61/; ZB=M74gfdiO349; ZB=OFvLWYAG0Mi;
+	ZU=LwfUUJSs3FD; Zu=GLdusR58ypR; ZF=HhRRiEiwLtY; Zf=BEZ4DZu9+cF;
+X-CLX-ID: a143GLF8l5e80VH-341950DF
+X-pstn-neptune: 0/0/0.00/0
+X-pstn-levels: (S: 4.85251/99.90000 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:97.0282 C:98.6951 )
+X-pstn-dkim: 0 skipped:not-enabled
+X-pstn-nxpr: disp=neutral, envrcpt=foo@example.com
+X-pstn-nxp: bodyHash=faa314614f0154ecc4b4dcd43bc5b7a7e3d223b6, headerHash=1005b187402f2e019bce20cd611388780bb9fb86, keyName=4, rcptHash=b5491c91ec31e95a6180357e2a4ddd0cad7dddb2, sourceip=208.84.243.23, version=1
+
+This is a multipart message in MIME format.
+
+------=_blahPart_000_01CC_01CE3154.79124F20
+Content-Type: multipart/alternative;
+	boundary="----=_blahPart_001_01CD_01CE3154.79124F20"
+
+
+------=_blahPart_001_01CD_01CE3154.79124F20
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+LOO01 BOO_DEL TRVL
+
+
+=20
+
+
+
+
+Bilhete Eletr=C3=B4nico
+
+  <http://app.reservafacil.tur.br/etkt/imagens/cias/hdr/G3.png>=20
+
+=20
+
+
+Nome do Passageiro
+
+Foo Bar
+
+
+LOC (Localizador da reserva)
+
+B7E88Y
+
+=20
+
+
+Voo
+
+Classe
+
+Origem
+
+Destino
+
+Data
+
+Sa=C3=ADda/Chegada
+
+Assento
+
+
+G3 1203
+
+Y
+
+POA - PORTO ALEGRE
+
+SAO - CONGONHAS
+
+08/04/2013
+
+08:25/10:01
+
+20E
+
+
+G3 1214
+
+P
+
+SAO - CONGONHAS
+
+POA - PORTO ALEGRE
+
+10/04/2013
+
+18:48/20:35
+
+6B
+
+=20
+
+
+Data de emiss=C3=A3o
+
+04/04/2013 - 16:47
+
+
+LOC (Localizador da reserva)
+
+B7E88Y
+
+
+Formas de Pagamento
+
+=C3=80 vista
+
+
+Valor Total
+
+R$ 1.589,52
+
+=20
+
+
+Orienta=C3=A7=C3=B5es para Embarque=20
+
+=C2=B7  Apresente-se em nosso check-in com 2 horas de anteced=C3=AAncia =
+em voos nacionais, ou com 3 horas em voos internacionais.=20
+
+=C2=B7  N=C3=A3o se esque=C3=A7a de levar seus documentos originais:=20
+
+=C2=B7  Carteira de Identidade para voos nacionais=20
+
+=C2=B7  Passaporte e os vistos necess=C3=A1rios para entrada no pais de =
+destino para voos internacionais.=20
+
+=C2=B7  Verifique a necessidade de Vacinas para o destino de sua viagem. =
+
+
+=20
+
+
+=20
+example51 30260522www.example.com.br
+
+=20
+
+
+Contato=20
+
+=C2=B7  SAC GOL BRASIL: 0800 704 0465=20
+
+
+
+
+
+=20
+
+
+------=_blahPart_001_01CD_01CE3154.79124F20
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"Pr=C3=A9-formata=C3=A7=C3=A3o HTML Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de bal=C3=A3o Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.Pr-formataoHTMLChar
+	{mso-style-name:"Pr=C3=A9-formata=C3=A7=C3=A3o HTML Char";
+	mso-style-priority:99;
+	mso-style-link:"Pr=C3=A9-formata=C3=A7=C3=A3o HTML";
+	font-family:Consolas;}
+span.EstiloDeEmail19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.TextodebaloChar
+	{mso-style-name:"Texto de bal=C3=A3o Char";
+	mso-style-priority:99;
+	mso-style-link:"Texto de bal=C3=A3o";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DPT-BR link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>LOO01 =
+BOO_DEL TRVL</p><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D600 =
+style=3D'width:450.0pt;border-collapse:collapse'><tr><td =
+style=3D'padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+width=3D150 style=3D'width:112.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'><img width=3D100 height=3D50 id=3D"_x0000_i1025" =
+src=3D"cid:logo-agencia"><o:p></o:p></span></b></p></td><td =
+style=3D'padding:1.5pt 1.5pt 1.5pt 1.5pt'><p class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center'><b><span =
+style=3D'font-size:18.0pt;font-family:"Verdana","sans-serif";color:#0F1C8=
+2'>Bilhete Eletr=C3=B4nico<o:p></o:p></span></b></p></td><td width=3D150 =
+style=3D'width:112.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3DMsoNormal align=3Dright style=3D'text-align:right'><span =
+style=3D'font-size:6.0pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'><img id=3D"_x0000_i1026" =
+src=3D"http://app.reservafacil.tur.br/etkt/imagens/cias/hdr/G3.png"><o:p>=
+</o:p></span></p></td></tr></table><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D590 style=3D'width:442.5pt;border-collapse:collapse'><tr><td =
+width=3D"40%" valign=3Dtop =
+style=3D'width:40.0%;border-top:none;border-left:none;border-bottom:solid=
+ #CDCDCD 1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt =
+3.75pt 3.75pt'><p class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>Nome do Passageiro<o:p></o:p></span></p></td><td width=3D"60%" =
+valign=3Dtop style=3D'width:60.0%;border:none;border-bottom:solid =
+#CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>Foo Bar</span></b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'><o:p></o:p></span></p></td></tr><tr><td width=3D"40%" valign=3Dtop =
+style=3D'width:40.0%;border:none;border-right:solid #CDCDCD =
+1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>LOC (Localizador da reserva)<o:p></o:p></span></p></td><td =
+width=3D"60%" valign=3Dtop style=3D'width:60.0%;padding:3.75pt 3.75pt =
+3.75pt 3.75pt'><p class=3DMsoNormal><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>B7E88Y</span></b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'><o:p></o:p></span></p></td></tr></table><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr =
+style=3D'vertical-align:center'><td style=3D'border:solid #CDCDCD =
+1.0pt;border-left:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Voo<o:p></o:p></span></p></td><td style=3D'border:solid #CDCDCD =
+1.0pt;border-left:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Classe<o:p></o:p></span></p></td><td style=3D'border:solid #CDCDCD =
+1.0pt;border-left:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Origem<o:p></o:p></span></p></td><td style=3D'border:solid #CDCDCD =
+1.0pt;border-left:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Destino<o:p></o:p></span></p></td><td style=3D'border:solid #CDCDCD =
+1.0pt;border-left:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Data<o:p></o:p></span></p></td><td style=3D'border:solid #CDCDCD =
+1.0pt;border-left:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Sa=C3=ADda/Chegada<o:p></o:p></span></p></td><td =
+style=3D'border-top:solid #CDCDCD =
+1.0pt;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:none;background:#A1A1A1;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:white'>=
+Assento<o:p></o:p></span></p></td></tr><tr =
+style=3D'vertical-align:center'><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>G3 1203<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>Y<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>POA&nbsp;-&nbsp;PORTO ALEGRE<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>SAO&nbsp;-&nbsp;CONGONHAS<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>08/04/2013<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>08:25/10:01<o:p></o:p></span></p></td><td =
+style=3D'border:none;border-bottom:solid #CDCDCD 1.0pt;padding:3.75pt =
+3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>20E<o:p></o:p></span></p></td></tr><tr =
+style=3D'vertical-align:center'><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>G3 1214<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>P<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>SAO&nbsp;-&nbsp;CONGONHAS<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>POA&nbsp;-&nbsp;PORTO ALEGRE<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>10/04/2013<o:p></o:p></span></p></td><td =
+style=3D'border-top:none;border-left:none;border-bottom:solid #CDCDCD =
+1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>18:48/20:35<o:p></o:p></span></p></td><td =
+style=3D'border:none;border-bottom:solid #CDCDCD 1.0pt;padding:3.75pt =
+3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:7.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>6B<o:p></o:p></span></p></td></tr></table><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+width=3D"40%" valign=3Dtop =
+style=3D'width:40.0%;border-top:none;border-left:none;border-bottom:solid=
+ #CDCDCD 1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt =
+3.75pt 3.75pt'><p class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'>Data de emiss=C3=A3o<o:p></o:p></span></p></td><td width=3D"60%" =
+valign=3Dtop style=3D'width:60.0%;border:none;border-bottom:solid =
+#CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>04/04/2013 - 16:47<o:p></o:p></span></p></td></tr><tr><td =
+width=3D"40%" valign=3Dtop =
+style=3D'width:40.0%;border-top:none;border-left:none;border-bottom:solid=
+ #CDCDCD 1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt =
+3.75pt 3.75pt'><p class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'>LOC (Localizador da reserva)<o:p></o:p></span></p></td><td =
+width=3D"60%" valign=3Dtop =
+style=3D'width:60.0%;border:none;border-bottom:solid #CDCDCD =
+1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>B7E88Y<o:p></o:p></span></p></td></tr><tr><td width=3D"40%" =
+valign=3Dtop =
+style=3D'width:40.0%;border-top:none;border-left:none;border-bottom:solid=
+ #CDCDCD 1.0pt;border-right:solid #CDCDCD 1.0pt;padding:3.75pt 3.75pt =
+3.75pt 3.75pt'><p class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'>Formas de Pagamento<o:p></o:p></span></p></td><td width=3D"60%" =
+valign=3Dtop style=3D'width:60.0%;border:none;border-bottom:solid =
+#CDCDCD 1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C3=80 vista<o:p></o:p></span></p></td></tr><tr><td width=3D"40%" =
+valign=3Dtop style=3D'width:40.0%;border:none;border-right:solid #CDCDCD =
+1.0pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'>Valor Total</span></b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#0F1C82=
+'><o:p></o:p></span></p></td><td width=3D"60%" valign=3Dtop =
+style=3D'width:60.0%;background:#F4F4F4;padding:3.75pt 3.75pt 3.75pt =
+3.75pt'><p class=3DMsoNormal><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>R$</span></b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>&nbsp;<b>1.589,52</b><o:p></o:p></span></p></td></tr></table><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+style=3D'padding:3.75pt 3.75pt 3.75pt 3.75pt'><div =
+style=3D'border:none;border-bottom:solid #CDCDCD 1.0pt;padding:0cm 0cm =
+4.0pt 0cm'><p class=3DMsoNormal style=3D'vertical-align:top'><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>Orienta=C3=A7=C3=B5es para Embarque</span></b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'> <o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:Symbol;color:#4D4D4E'>=C2=B7</span><=
+span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C2=A0 Apresente-se em nosso check-in com 2 horas de anteced=C3=AAncia =
+em voos nacionais, ou com 3 horas em voos internacionais. =
+<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:Symbol;color:#4D4D4E'>=C2=B7</span><=
+span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C2=A0 N=C3=A3o se esque=C3=A7a de levar seus documentos originais: =
+<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:Symbol;color:#4D4D4E'>=C2=B7</span><=
+span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C2=A0 <b>Carteira de Identidade</b> para voos nacionais =
+<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:Symbol;color:#4D4D4E'>=C2=B7</span><=
+span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C2=A0 <b>Passaporte</b> e os vistos necess=C3=A1rios para entrada no =
+pais de destino para voos internacionais. <o:p></o:p></span></p><p =
+class=3DMsoNormal style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:Symbol;color:#4D4D4E'>=C2=B7</span><=
+span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C2=A0 Verifique a necessidade de Vacinas para o destino de sua =
+viagem. <o:p></o:p></span></p></div></td></tr></table><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+style=3D'padding:3.75pt 3.75pt 3.75pt 3.75pt'><div =
+style=3D'border:none;border-bottom:solid #CDCDCD 1.0pt;padding:0cm 0cm =
+4.0pt 0cm'><pre style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'><o:p>&nbsp;</o:p></span></pre><pre style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>example51 =
+30260522www.example.com.br<o:p></o:p></span></pre></div></td></tr></tabl=
+e><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+style=3D'padding:3.75pt 3.75pt 3.75pt 3.75pt'><div =
+style=3D'border:none;border-bottom:solid #CDCDCD 1.0pt;padding:0cm 0cm =
+4.0pt 0cm'><p class=3DMsoNormal style=3D'vertical-align:top'><b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>Contato</span></b><span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'> <o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'vertical-align:top'><span =
+style=3D'font-size:8.5pt;font-family:Symbol;color:#4D4D4E'>=C2=B7</span><=
+span =
+style=3D'font-size:8.5pt;font-family:"Verdana","sans-serif";color:#4D4D4E=
+'>=C2=A0 SAC GOL BRASIL: 0800 704 0465 =
+<o:p></o:p></span></p></div></td></tr></table><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><br><br><o:p></o:p></p></td></tr></table><=
+/div><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><o:p>&nbsp;</o:p></p></div></body></html>
+------=_blahPart_001_01CD_01CE3154.79124F20--
+
+------=_blahPart_000_01CC_01CE3154.79124F20
+Content-Type: image/gif;
+	name="logo.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <logo-agencia>
+
+R0lGODlhZAAyAPcAAAAAAAAAMwAAZgAAmQAAzAAA/wArAAArMwArZgArmQArzAAr/wBVAABVMwBV
+ZgBVmQBVzABV/wCAAACAMwCAZgCAmQCAzACA/wCqAACqMwCqZgCqmQCqzACq/wDVAADVMwDVZgDV
+mQDVzADV/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMrADMrMzMrZjMrmTMr
+zDMr/zNVADNVMzNVZjNVmTNVzDNV/zOAADOAMzOAZjOAmTOAzDOA/zOqADOqMzOqZjOqmTOqzDOq
+/zPVADPVMzPVZjPVmTPVzDPV/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2Yr
+AGYrM2YrZmYrmWYrzGYr/2ZVAGZVM2ZVZmZVmWZVzGZV/2aAAGaAM2aAZmaAmWaAzGaA/2aqAGaq
+M2aqZmaqmWaqzGaq/2bVAGbVM2bVZmbVmWbVzGbV/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kA
+ZpkAmZkAzJkA/5krAJkrM5krZpkrmZkrzJkr/5lVAJlVM5lVZplVmZlVzJlV/5mAAJmAM5mAZpmA
+mZmAzJmA/5mqAJmqM5mqZpmqmZmqzJmq/5nVAJnVM5nVZpnVmZnVzJnV/5n/AJn/M5n/Zpn/mZn/
+zJn//8wAAMwAM8wAZswAmcwAzMwA/8wrAMwrM8wrZswrmcwrzMwr/8xVAMxVM8xVZsxVmcxVzMxV
+/8yAAMyAM8yAZsyAmcyAzMyA/8yqAMyqM8yqZsyqmcyqzMyq/8zVAMzVM8zVZszVmczVzMzV/8z/
+AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8rAP8rM/8rZv8rmf8rzP8r//9VAP9V
+M/9VZv9Vmf9VzP9V//+AAP+AM/+AZv+Amf+AzP+A//+qAP+qM/+qZv+qmf+qzP+q///VAP/VM//V
+Zv/Vmf/VzP/V////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAACH5BAEAAPwALAAAAABkADIA
+AAj/AJXVU0ZwYEGCAhEaTHiw4cF9yiDukzixokWL0PbVg7ZxIEeHC0MqHAkSobKPJw2iXKmyJUKI
+GxNKjNiRo82aAztGbIgSIkGfO3++HCr0oMiSSBkinTkxosaM9SZG3ahxpsecJpUe1UpSIDSTW8N2
+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
+
+------=_blahPart_000_01CC_01CE3154.79124F20--

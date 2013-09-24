@@ -1,0 +1,387 @@
+
+Delivered-To: foo@example.com
+Received: by 10.216.170.75 with SMTP id o53cs563905wel;
+        Thu, 5 Jan 2012 05:39:47 -0800 (PST)
+Received: by 10.68.190.4 with SMTP id gm4mr5356071pbc.76.1325770785539;
+        Thu, 05 Jan 2012 05:39:45 -0800 (PST)
+Return-Path: <bar@example.com>
+Received: from psmtp.com (exprod5mx286.postini.com. [64.18.0.110])
+        by mx.google.com with SMTP id j7si72340621pbd.248.2012.01.05.05.39.44
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 05 Jan 2012 05:39:45 -0800 (PST)
+Received-SPF: pass (google.com: domain of bar@example.com designates 74.125.149.71 as permitted sender) client-ip=74.125.149.71;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of bar@example.com designates 74.125.149.71 as permitted sender) smtp.mail=bar@example.com
+Received-SPF: pass (google.com: domain of bar@example.com designates 74.125.149.71 as permitted sender) client-ip=74.125.149.71;
+Received: from na3sys009aog103.obsmtp.com ([74.125.149.71]) (using TLSv1) by exprod5mx286.postini.com ([64.18.4.10]) with SMTP;
+	Thu, 05 Jan 2012 07:39:45 CST
+Received: from mail-ee0-f41.google.com ([74.125.83.41]) (using TLSv1) by na3sys009aob103.postini.com ([74.125.148.12]) with SMTP
+	ID DSNKTwWoHySe98Sk1S96oDer9KdjacEgAjrM@postini.com; Thu, 05 Jan 2012 05:39:44 PST
+Received: by eekc41 with SMTP id c41so342419eek.28
+        for <foo@example.com>; Thu, 05 Jan 2012 05:39:42 -0800 (PST)
+Received: by 10.14.95.71 with SMTP id o47mr782249eef.95.1325770782203; Thu, 05
+ Jan 2012 05:39:42 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.213.34.71 with HTTP; Thu, 5 Jan 2012 05:39:21 -0800 (PST)
+In-Reply-To: <369F48C84CF8471BBE828D27811E4FA9@blah>
+References: <369F48C84CF8471BBE828D27811E4FA9@blah>
+From: =?ISO-8859-1?Q?Boo_Bar?= <bar@example.com>
+Date: Thu, 5 Jan 2012 11:39:21 -0200
+Message-ID: <CAEn02sBPto_Q3ur4MzcLJgGf9gCynvfYuMC359iZ+M+_az455g@mail.gmail.com>
+Subject: Fwd: Loc 0ISXXX - Emitido - Foo Bar ( avianca)
+To: Foo Bar <foo@example.com>
+X-pstn-nxpr: disp=neutral, envrcpt=foo@example.com
+X-pstn-nxp: bodyHash=e9327903e7965117fdab24f72dc7b48052fc79c0,
+ headerHash=78df3313a03d158c84ff73adcd86e53e37672798, keyName=4,
+ rcptHash=959e52e7d33988ca7faf4d4ccf8a0a1d1e121cef, sourceip=74.125.149.71, version=1
+Content-Type: multipart/alternative; boundary=bcaec52157ef86e01404b5c810ed
+
+--bcaec52157ef86e01404b5c810ed
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: blah <blah@example.com>
+Date: 2012/1/5
+Subject: Loc 0ISXXX - Emitido - Foo Bar ( avianca)
+To: Boo Bar <bar@example.com>
+
+
+
+
+
+
+
+  example Bilhete Eletr=F4nico
+
+  Nome do Passageiro *Foo Bar* N=FAmero do bilhete *116 0343228=
+*
+
+  Voo Classe Origem Destino Data Sa=EDda/Chegada OC 6129 W POA - PORTO ALEG=
+RE SAO
+- GUARULHOS 03/02/2012 21:02/22:50 OC 6318 Z SAO - GUARULHOS POA - PORTO
+ALEGRE 24/02/2012 21:55/23:37
+
+  Data de emiss=E3o 04/01/2012 - 19:03  LOC (Localizador da reserva)
+0ISXXX Formas de Pagamento =C0
+vista  *Valor Total* *R$* *311,32*
+
+   *Orienta=E7=F5es para Embarque*
+Apresente-se em nosso check-in com 2 horas de anteced=EAncia em voos
+nacionais, ou com 3 horas em voos internacionais.
+N=E3o se esque=E7a de levar seus documentos originais:
+*Carteira de Identidade* para voos nacionais
+*Passaporte* e os vistos necess=E1rios para entrada no pais de destino para
+voos internacionais.
+Verifique a necessidade de Vacinas para o destino de sua viagem.
+
+
+   example
+51 30260522www.example.com.br
+
+
+
+   *Contato*
+SAC OCEANAIR BRASIL: 0800 286 6543
+
+--bcaec52157ef86e01404b5c810ed
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"gmail_quote">---------- Forwarded message ----------<br>From:=
+ <b class=3D"gmail_sendername">blah</b> <span dir=3D"=
+ltr">&lt;<a href=3D"mailto:blah@example.com">blah@ex=
+ample.com.br</a>&gt;</span><br>
+
+Date: 2012/1/5<br>Subject: Loc 0ISXXX - Emitido - Foo Bar ( avi=
+anca)<br>To: Boo Bar &lt;<a href=3D"mailto:bar@example.co=
+m">bar@example.com</a>&gt;<br><br><br>
+
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div style=3D"FONT-FAMILY:&#39;Verdana&#39;;COLOR:#000000;FONT-SIZE:10pt">
+<div>=A0</div>
+<div style=3D"FONT-STYLE:normal;DISPLAY:inline;FONT-FAMILY:&#39;Calibri&#39=
+;;COLOR:#000000;FONT-SIZE:small;FONT-WEIGHT:normal;TEXT-DECORATION:none">
+<div style=3D"FONT:10pt tahoma">
+<div><font face=3D"Verdana"></font>=A0</div></div>
+<div>=A0</div></div>
+<div style=3D"FONT-STYLE:normal;DISPLAY:inline;FONT-FAMILY:&#39;Calibri&#39=
+;;COLOR:#000000;FONT-SIZE:small;FONT-WEIGHT:normal;TEXT-DECORATION:none">
+<center>
+<table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;PADDIN=
+G-LEFT:5px;WIDTH:600px;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;COLOR:#00=
+0000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5px">
+  <tbody>
+  <tr>
+    <td><br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;COLO=
+R:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5px">
+        <tbody>
+        <tr>
+          <td style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:2px;PADDING-LEFT:2px;=
+WIDTH:150px;PADDING-RIGHT:2px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#0=
+f1c82;FONT-SIZE:11px;VERTICAL-ALIGN:middle;FONT-WEIGHT:bold;PADDING-TOP:2px=
+">
+
+blah=20
+            blah</td>
+          <td style=3D"TEXT-ALIGN:center;PADDING-BOTTOM:2px;PADDING-LEFT:2p=
+x;PADDING-RIGHT:2px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#0f1c82;FONT=
+-SIZE:24px;VERTICAL-ALIGN:middle;FONT-WEIGHT:bold;PADDING-TOP:2px">Bilhete=
+=20
+            Eletr=F4nico</td>
+          <td style=3D"TEXT-ALIGN:right;PADDING-BOTTOM:2px;PADDING-LEFT:2px=
+;WIDTH:150px;PADDING-RIGHT:2px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#=
+0f1c82;FONT-SIZE:8px;VERTICAL-ALIGN:middle;PADDING-TOP:2px"><img border=3D"=
+0" src=3D"http://www.reservafacil.tur.br/etkt/imagens//cias/hdr/OC.png"></t=
+d>
+
+</tr></tbody></table><br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:590px;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;WHI=
+TE-SPACE:nowrap;COLOR:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5=
+px">
+
+
+        <tbody>
+        <tr style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;WI=
+DTH:100%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d=
+4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;WIDTH:40%;PADDING-RIGHT:5px;BORDER-RIGHT:#cdcdcd 1px solid;=
+PADDING-TOP:5px">Nome=20
+            do Passageiro</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;WIDTH:60%;PADDING-RIGHT:5px;PADDING-TOP:5px"><b>Foo=20
+            Bar</b></td></tr>
+        <tr style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;WI=
+DTH:100%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d=
+4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px">
+          <td style=3D"PADDING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:40%;PADDIN=
+G-RIGHT:5px;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">N=FAmero=20
+            do bilhete</td>
+          <td style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;=
+WIDTH:60%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4=
+d4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px"><b>116=20
+            0343228</b></td></tr></tbody></table><br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;WHIT=
+E-SPACE:nowrap;COLOR:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5p=
+x">
+
+
+        <tbody>
+        <tr style=3D"TEXT-ALIGN:center;PADDING-BOTTOM:5px;BACKGROUND-COLOR:=
+#a1a1a1;PADDING-LEFT:5px;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-s=
+erif;COLOR:white;FONT-SIZE:10px;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:#cdcdcd 1px solid;BORDER-RIGHT=
+:#cdcdcd 1px solid;PADDING-TOP:5px">Voo</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">Classe</t=
+d>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">Origem</t=
+d>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">Destino</=
+td>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">Data</td>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;PADDING-TOP:5px">Sa=EDda/Chegada</td></tr>
+        <tr style=3D"TEXT-ALIGN:center;PADDING-BOTTOM:5px;PADDING-LEFT:5px;=
+PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d4e;FONT-S=
+IZE:10px;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:#cdcdcd 1px solid;BORDER-RIGHT=
+:#cdcdcd 1px solid;PADDING-TOP:5px">OC=20
+            6129</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">W</td>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">POA=20
+            - PORTO ALEGRE</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">SAO=20
+            - GUARULHOS</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">03/02/201=
+2</td>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;PADDING-TOP:5px">21:02/22:50</td></tr>
+        <tr style=3D"TEXT-ALIGN:center;PADDING-BOTTOM:5px;PADDING-LEFT:5px;=
+PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d4e;FONT-S=
+IZE:10px;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:#cdcdcd 1px solid;BORDER-RIGHT=
+:#cdcdcd 1px solid;PADDING-TOP:5px">OC=20
+            6318</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">Z</td>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">SAO=20
+            - GUARULHOS</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">POA=20
+            - PORTO ALEGRE</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;BORDER-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">24/02/201=
+2</td>
+
+
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;BORDER-LEFT:#cdcdcd =
+1px solid;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-RIGHT:5px;BORDER-TOP:=
+#cdcdcd 1px solid;PADDING-TOP:5px">21:55/23:37</td></tr></tbody></table>
+
+<br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;WHIT=
+E-SPACE:nowrap;COLOR:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5p=
+x">
+
+
+        <tbody>
+        <tr style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;WI=
+DTH:100%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d=
+4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;TEXT-ALIGN:left;PADD=
+ING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:40%;PADDING-RIGHT:5px;FONT-FAMILY:ver=
+dana,arial,sans-serif;COLOR:#0f1c82;FONT-SIZE:11px;VERTICAL-ALIGN:top;BORDE=
+R-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">
+
+Data=20
+            de emiss=E3o</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;WIDTH:60%;PADDING-RIGHT:5px;PADDING-TOP:5px">04/01/2012=20
+            - 19:03</td></tr>
+        <tr style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;WI=
+DTH:100%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d=
+4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;TEXT-ALIGN:left;PADD=
+ING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:40%;PADDING-RIGHT:5px;FONT-FAMILY:ver=
+dana,arial,sans-serif;COLOR:#0f1c82;FONT-SIZE:11px;VERTICAL-ALIGN:top;BORDE=
+R-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">
+
+LOC=20
+            (Localizador da reserva)</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;WIDTH:60%;PADDING-RIGHT:5px;PADDING-TOP:5px">0ISXXX</td></t=
+r>
+        <tr style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;WI=
+DTH:100%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d=
+4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px">
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;TEXT-ALIGN:left;PADD=
+ING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:40%;PADDING-RIGHT:5px;FONT-FAMILY:ver=
+dana,arial,sans-serif;COLOR:#0f1c82;FONT-SIZE:11px;VERTICAL-ALIGN:top;BORDE=
+R-RIGHT:#cdcdcd 1px solid;PADDING-TOP:5px">
+
+Formas=20
+            de Pagamento</td>
+          <td style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;PADDING-BOTTOM:5px;P=
+ADDING-LEFT:5px;WIDTH:60%;PADDING-RIGHT:5px;PADDING-TOP:5px">=C0=20
+            vista</td></tr>
+        <tr style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;WI=
+DTH:100%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d=
+4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;PADDING-TOP:5px">
+          <td style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;=
+WIDTH:40%;PADDING-RIGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#0f1=
+c82;FONT-SIZE:11px;VERTICAL-ALIGN:top;BORDER-RIGHT:#cdcdcd 1px solid;PADDIN=
+G-TOP:5px">
+
+<b>Valor=20
+            Total</b></td>
+          <td style=3D"PADDING-BOTTOM:5px;BACKGROUND-COLOR:#f4f4f4;PADDING-=
+LEFT:5px;WIDTH:60%;PADDING-RIGHT:5px;COLOR:#4d4d4e;PADDING-TOP:5px"><b>R$</=
+b>=A0<b>311,32</b></td></tr></tbody></table><br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;COLO=
+R:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5px">
+        <tbody>
+        <tr>
+          <td>
+            <div style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;TEXT-ALIGN:left;P=
+ADDING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;FONT-FAMILY=
+:verdana,arial,sans-serif;COLOR:#4d4d4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;P=
+ADDING-TOP:5px">
+
+<b>Orienta=E7=F5es=20
+            para Embarque</b>=20
+            <li>Apresente-se em nosso check-in com 2 horas de anteced=EAnci=
+a em=20
+            voos nacionais, ou com 3 horas em voos internacionais.=20
+            </li><li>N=E3o se esque=E7a de levar seus documentos originais:=
+=20
+            </li><li><b>Carteira de Identidade</b> para voos nacionais=20
+            </li><li><b>Passaporte</b> e os vistos necess=E1rios para entra=
+da no pais=20
+            de destino para voos internacionais.=20
+            </li><li>Verifique a necessidade de Vacinas para o destino de s=
+ua viagem.=20
+            </li></div></td></tr></tbody></table><br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;COLO=
+R:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5px">
+        <tbody>
+        <tr>
+          <td>
+            <div style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;TEXT-ALIGN:left;P=
+ADDING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;FONT-FAMILY=
+:verdana,arial,sans-serif;COLOR:#4d4d4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;P=
+ADDING-TOP:5px">
+
+<pre style=3D"TEXT-ALIGN:left;PADDING-BOTTOM:5px;PADDING-LEFT:5px;PADDING-R=
+IGHT:5px;FONT-FAMILY:verdana,arial,sans-serif;COLOR:#4d4d4e;FONT-SIZE:11px;=
+VERTICAL-ALIGN:top;PADDING-TOP:5px">example
+51 30260522
+<a href=3D"http://www.example.com.br" target=3D"_blank">www.example.com.b=
+r</a></pre></div></td></tr></tbody></table><br><br>
+      <table style=3D"BORDER-BOTTOM:0px;BORDER-LEFT:0px;PADDING-BOTTOM:5px;=
+PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;BORDER-COLLAPSE:collapse;COLO=
+R:#000000;BORDER-TOP:0px;BORDER-RIGHT:0px;PADDING-TOP:5px">
+        <tbody>
+        <tr>
+          <td>
+            <div style=3D"BORDER-BOTTOM:#cdcdcd 1px solid;TEXT-ALIGN:left;P=
+ADDING-BOTTOM:5px;PADDING-LEFT:5px;WIDTH:100%;PADDING-RIGHT:5px;FONT-FAMILY=
+:verdana,arial,sans-serif;COLOR:#4d4d4e;FONT-SIZE:11px;VERTICAL-ALIGN:top;P=
+ADDING-TOP:5px">
+
+<b>Contato</b>=20
+
+            <li>SAC OCEANAIR BRASIL: 0800 286 6543=20
+      </li></div></td></tr></tbody></table>
+      <center></center><br><br><br></td></tr></tbody></table></center></div=
+></div></div></div>
+</div><br>
+
+--bcaec52157ef86e01404b5c810ed--
