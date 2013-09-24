@@ -1,3 +1,3 @@
-class
-  # To change this template use File | Settings | File Templates.
+RSpec.configure do |config|
+  config.filter_run_excluding :ignore => true
 end

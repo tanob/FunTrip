@@ -1,3 +1,24 @@
+require 'roxml'
+
 class FlightSegmentDate
-  # To change this template use File | Settings | File Templates.
+  include ROXML
+
+  @date = DateTime.new
+  xml_reader :date
+  xml_reader :time
+
+  def initialize(date)
+    @date = date
+  end
+
+  private
+
+  def date
+   @date.strftime('%Y-%m-%d')
+  end
+
+  def time
+    @date.strftime('%H:%M:%S')
+  end
+
 end

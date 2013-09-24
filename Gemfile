@@ -9,6 +9,12 @@ gem 'oauth'
 gem 'data_mapper'
 gem 'dm-sqlite-adapter'
 
+gem 'roxml'
+
+group :test do
+  gem 'rspec'
+end
+
 group :web do
   gem 'sinatra'
   gem 'shotgun'
